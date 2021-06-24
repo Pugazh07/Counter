@@ -2,6 +2,7 @@
   "name": "counter-using-redux",
   "version": "0.1.0",
   "private": true,
+  "homepage": "http://Pugazh07.github.io/Counter",
   "dependencies": {
     "gh-pages": "^3.2.3",
     "react": "^16.14.0",
